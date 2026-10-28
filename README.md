@@ -1,4 +1,4 @@
-# Page & Pine — AWS Online Bookstore
+# Page & Pine — Online Bookstore
 
 A lightweight full-stack bookstore for a Cloud Computing Laboratory exercise. It demonstrates CRUD operations, customer order management, GitHub source control, Amazon DynamoDB, and AWS Elastic Beanstalk deployment.
 
