@@ -1,0 +1,18 @@
+{
+  "name": "aws-lightweight-bookstore",
+  "version": "1.0.0",
+  "description": "Lightweight online bookstore for a cloud computing lab using Node.js, Express, DynamoDB, GitHub and AWS Elastic Beanstalk.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.800.0",
+    "@aws-sdk/lib-dynamodb": "^3.800.0",
+    "express": "^4.21.2"
+  }
+}
