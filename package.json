@@ -13,6 +13,7 @@
   "dependencies": {
     "@aws-sdk/client-dynamodb": "^3.800.0",
     "@aws-sdk/lib-dynamodb": "^3.800.0",
-    "express": "^4.21.2"
+    "express": "^4.21.2",
+    "pg": "^8.23.1"
   }
 }
